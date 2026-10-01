@@ -1,5 +1,5 @@
 ---
 title: Lessons
-nav_order: false
-has_toc: false
+nav_order: 1
+# has_toc: false
 ---
